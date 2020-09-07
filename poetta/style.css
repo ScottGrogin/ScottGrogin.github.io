@@ -1,0 +1,19 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+#wrap{
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+}
+h1{
+  font-size: 35pt;
+  letter-spacing: 10px;
+  text-align: center;
+  font-family: 'EB Garamond', serif;
+}

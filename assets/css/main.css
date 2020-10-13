@@ -996,7 +996,8 @@ input, select, textarea {
 				.row > * {
 					box-sizing: border-box;
 				}
-
+			
+				
 				.row.gtr-uniform > * > :last-child {
 					margin-bottom: 0;
 				}
@@ -1241,7 +1242,9 @@ input, select, textarea {
 				.row > * {
 					box-sizing: border-box;
 				}
-
+				.row > .off-3 {
+					margin-left: 0%;
+				}
 				.row.gtr-uniform > * > :last-child {
 					margin-bottom: 0;
 				}
